@@ -1,6 +1,6 @@
-﻿namespace ASP.NETCoreWebApplication.Models
+﻿namespace TodoApi.Models
 {
-    public class ToDoItem
+    public class TodoItem
     {
         public long Id { get; set; }
         public string Name { get; set; }
